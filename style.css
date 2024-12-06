@@ -861,6 +861,7 @@ footer {
                         font-size: 14px;
                         line-height: 171%;
                         color: var(--red);
+			border: none;
                     }
                 }
             }
