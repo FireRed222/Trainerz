@@ -862,6 +862,7 @@ footer {
                         line-height: 171%;
                         color: var(--red);
 			border: none;
+			cursor: pointer;
                     }
                 }
             }
